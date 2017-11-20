@@ -1,2 +1,3 @@
-# project1
-My test project
+# Project1
+My first test project :)\
+So no README here!
